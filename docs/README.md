@@ -2,7 +2,7 @@
 home: true
 # heroImage: /images/home.jpg
 actionText: java面试那些事 →
-actionLink: /rule/
+actionLink: https://javayue.github.io/java/
 features:
 - title: java
   details: 讲解编程中常见问题，分享怎么样编写简洁清晰的代码。知乎热帖。

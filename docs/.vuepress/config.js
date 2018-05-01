@@ -5,23 +5,5 @@ module.exports = {
   base: '/', // 设置站点根路径
   
   themeConfig: {
-    repo: 'https://github.com/xwjie' ,
-    nav: [
-      { text: '首页', link: '/' },
-      { text: 'java面试', link: '/java/' },
-      { text: 'javasrcipt面试', link: '/javasrcipt/' },
-      { text: 'Vue框架学习', link: '/xiao/' },
-      { text: '个人首页', link: 'http://www.xiaowenjie.cn' },
-    ],
-    sidebar:  {
-      
-    }
-	}, //themeConfig
-    configureWebpack: {
-    resolve: {
-      alias: {
-        '@img': 'images'
-      }
-    }
   }
 }
